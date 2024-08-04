@@ -1,0 +1,6 @@
+{
+  "authorization": "Bearer your_authorization_token_here",
+  "user_id": "your_user_id_here",
+  "saved_item_id": "your_saved_item_id_here"
+}
+
